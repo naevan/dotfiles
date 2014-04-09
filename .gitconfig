@@ -1,0 +1,7 @@
+[user]
+	name = Evan Nazareth
+	email = naevan@sas.upenn.edu
+[color]
+	ui = true
+[alias]
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-comit --date=relative
